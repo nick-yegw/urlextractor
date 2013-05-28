@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite failures="0" time="2.797" errors="0" skipped="0" tests="1" name="TestExtractor">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="D:\Program Files\Java\jdk1.6.0_10\jre\bin"/>
+    <property name="java.vm.version" value="11.0-b15"/>
+    <property name="java.vm.vendor" value="Sun Microsystems Inc."/>
+    <property name="java.vendor.url" value="http://java.sun.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="idea.launcher.port" value="7532"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="E:\JAVA_Project\urlextractor"/>
+    <property name="java.runtime.version" value="1.6.0_10-rc2-b32"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="D:\Program Files\Java\jdk1.6.0_10\jre\lib\endorsed"/>
+    <property name="os.arch" value="x86"/>
+    <property name="java.io.tmpdir" value="C:\Users\Nickle\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Sun Microsystems Inc."/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows Vista"/>
+    <property name="classworlds.conf" value="E:\maven\apache-maven-3.0.4\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.library.path" value="D:\Program Files\Java\jdk1.6.0_10\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\Program Files\JetBrains\IntelliJ IDEA 11.1.4\bin\..\.\bin;e:\Ruby192\bin;C:\Program Files\AMD APP\bin\x86;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\Program Files\Java\jdk1.6.0_10\bin;D:\Program Files\Java\jdk1.6.0_10\jre\bin;D:\Program Files\ATI Technologies\ATI.ACE\Core-Static;D:\Program Files\Python27;d:\Program Files\Git\cmd;E:\maven\apache-maven-3.0.4\bin;d:\program files\jetbrains\intellij idea 11.1.4\jre\jre\bin"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="50.0"/>
+    <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
+    <property name="os.version" value="6.1"/>
+    <property name="user.home" value="C:\Users\Nickle"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.6"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="idea.launcher.bin.path" value="D:\Program Files\JetBrains\IntelliJ IDEA 11.1.4\bin"/>
+    <property name="user.name" value="Nickle"/>
+    <property name="java.class.path" value="E:\maven\apache-maven-3.0.4\boot\plexus-classworlds-2.4.jar;D:\Program Files\JetBrains\IntelliJ IDEA 11.1.4\lib\idea_rt.jar"/>
+    <property name="java.vm.specification.version" value="1.0"/>
+    <property name="sun.arch.data.model" value="32"/>
+    <property name="java.home" value="D:\Program Files\Java\jdk1.6.0_10\jre"/>
+    <property name="java.specification.vendor" value="Sun Microsystems Inc."/>
+    <property name="user.language" value="zh"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="1.6.0_10-rc2"/>
+    <property name="java.ext.dirs" value="D:\Program Files\Java\jdk1.6.0_10\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="D:\Program Files\Java\jdk1.6.0_10\jre\lib\resources.jar;D:\Program Files\Java\jdk1.6.0_10\jre\lib\rt.jar;D:\Program Files\Java\jdk1.6.0_10\jre\lib\sunrsasign.jar;D:\Program Files\Java\jdk1.6.0_10\jre\lib\jsse.jar;D:\Program Files\Java\jdk1.6.0_10\jre\lib\jce.jar;D:\Program Files\Java\jdk1.6.0_10\jre\lib\charsets.jar;D:\Program Files\Java\jdk1.6.0_10\jre\classes"/>
+    <property name="java.vendor" value="Sun Microsystems Inc."/>
+    <property name="maven.home" value="E:\maven\apache-maven-3.0.4"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value=""/>
+  </properties>
+  <testcase time="2.723" classname="TestExtractor" name="testGetURLEncode"/>
+</testsuite>

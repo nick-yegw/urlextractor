@@ -1,0 +1,5 @@
+1) add the logger to the project
+2) create a URL
+3) connect to URL
+4) get the content from URL
+5) get the encode of URL
